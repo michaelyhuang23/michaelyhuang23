@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael
-- 👀 I’m interested in CS & Physics
-- 🌱 I’m currently learning React and other JS stuffs
+- 👀 I’m interested in Machine Learning & Software Engineering
+- 🌱 I’m currently hoping to improve my frontend skills
 - 📫 Follow my blog @daylightreveries.org!
 
